@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d9b47650.css",
+    "main.js": "/static/js/main.f1d0bdea.js",
+    "static/media/fda.mp4": "/static/media/fda.141cda581ba1efda9884.mp4",
+    "static/media/FDALOGO.png": "/static/media/FDALOGO.847bd05a0fdd2a7ed10c.png",
+    "static/media/grocerystore.jpg": "/static/media/grocerystore.c795980d5c7795894baf.jpg",
+    "static/media/TwoCard.jpg": "/static/media/TwoCard.aa32c36b4b2714d09b3b.jpg",
+    "static/media/Card-1.jpg": "/static/media/Card-1.8e7aa33a5dde4fff35fc.jpg",
+    "static/media/Swabhimaan-card-2.jpg": "/static/media/Swabhimaan-card-2.1717c3e34512425bf209.jpg",
+    "static/media/Farmerinfield.jpg": "/static/media/Farmerinfield.a9472a9c5542c314ab23.jpg",
+    "static/media/Farmertractor1.jpg": "/static/media/Farmertractor1.8522f14241c32b5c859c.jpg",
+    "static/media/Fasal.jpg": "/static/media/Fasal.a448003241e16a74da41.jpg",
+    "static/media/village1unsplash.jpg": "/static/media/village1unsplash.5122675d42ab442dd88c.jpg",
+    "static/media/card.png": "/static/media/card.58212c5d85109026f596.png",
+    "static/media/villunsplash.jpg": "/static/media/villunsplash.b250affcf3a2507a92e8.jpg",
+    "static/media/childunsplash.jpg": "/static/media/childunsplash.dff9d8687271a7cc1c50.jpg",
+    "static/media/eco.png": "/static/media/eco.c57588777370092bdb61.png",
+    "static/media/100 natural.png": "/static/media/100 natural.cc170b27bc7880e27c31.png",
+    "static/media/healthy.png": "/static/media/healthy.b5ab40389689b9db930b.png",
+    "static/media/secondnatural.png": "/static/media/secondnatural.ef958938e0771aea9a3c.png",
+    "static/media/organic.png": "/static/media/organic.4fd48214237f313bb287.png",
+    "static/media/naturalbeauty.png": "/static/media/naturalbeauty.35b24164179c78ac6d9f.png",
+    "index.html": "/index.html",
+    "main.d9b47650.css.map": "/static/css/main.d9b47650.css.map",
+    "main.f1d0bdea.js.map": "/static/js/main.f1d0bdea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9b47650.css",
+    "static/js/main.f1d0bdea.js"
+  ]
+}
