@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.2dd39475.css",
-    "main.js": "/static/js/main.470df2e5.js",
+    "main.css": "/static/css/main.e8ec8b85.css",
+    "main.js": "/static/js/main.1d6b1b98.js",
     "static/media/fda.mp4": "/static/media/fda.141cda581ba1efda9884.mp4",
     "static/media/FDALOGO.png": "/static/media/FDALOGO.847bd05a0fdd2a7ed10c.png",
     "static/media/grocerystore.jpg": "/static/media/grocerystore.c795980d5c7795894baf.jpg",
@@ -22,11 +22,11 @@
     "static/media/organic.png": "/static/media/organic.4fd48214237f313bb287.png",
     "static/media/naturalbeauty.png": "/static/media/naturalbeauty.35b24164179c78ac6d9f.png",
     "index.html": "/index.html",
-    "main.2dd39475.css.map": "/static/css/main.2dd39475.css.map",
-    "main.470df2e5.js.map": "/static/js/main.470df2e5.js.map"
+    "main.e8ec8b85.css.map": "/static/css/main.e8ec8b85.css.map",
+    "main.1d6b1b98.js.map": "/static/js/main.1d6b1b98.js.map"
   },
   "entrypoints": [
-    "static/css/main.2dd39475.css",
-    "static/js/main.470df2e5.js"
+    "static/css/main.e8ec8b85.css",
+    "static/js/main.1d6b1b98.js"
   ]
 }
