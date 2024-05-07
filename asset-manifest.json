@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.b78e51b8.css",
-    "main.js": "/static/js/main.6ee58d3c.js",
+    "main.js": "/static/js/main.95b57ec4.js",
     "static/media/fda.mp4": "/static/media/fda.141cda581ba1efda9884.mp4",
     "static/media/FDALOGO.png": "/static/media/FDALOGO.847bd05a0fdd2a7ed10c.png",
     "static/media/grocerystore.jpg": "/static/media/grocerystore.c795980d5c7795894baf.jpg",
@@ -23,10 +23,10 @@
     "static/media/naturalbeauty.png": "/static/media/naturalbeauty.35b24164179c78ac6d9f.png",
     "index.html": "/index.html",
     "main.b78e51b8.css.map": "/static/css/main.b78e51b8.css.map",
-    "main.6ee58d3c.js.map": "/static/js/main.6ee58d3c.js.map"
+    "main.95b57ec4.js.map": "/static/js/main.95b57ec4.js.map"
   },
   "entrypoints": [
     "static/css/main.b78e51b8.css",
-    "static/js/main.6ee58d3c.js"
+    "static/js/main.95b57ec4.js"
   ]
 }
