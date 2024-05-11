@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.b78e51b8.css",
-    "main.js": "/static/js/main.95b57ec4.js",
+    "main.css": "/static/css/main.2a3b06f7.css",
+    "main.js": "/static/js/main.f40e63ad.js",
     "static/media/fda.mp4": "/static/media/fda.141cda581ba1efda9884.mp4",
-    "static/media/FDALOGO.png": "/static/media/FDALOGO.847bd05a0fdd2a7ed10c.png",
+    "static/media/fdalogo.png": "/static/media/fdalogo.847bd05a0fdd2a7ed10c.png",
     "static/media/grocerystore.jpg": "/static/media/grocerystore.c795980d5c7795894baf.jpg",
     "static/media/TwoCard.jpg": "/static/media/TwoCard.aa32c36b4b2714d09b3b.jpg",
     "static/media/Card-1.jpg": "/static/media/Card-1.8e7aa33a5dde4fff35fc.jpg",
@@ -11,7 +11,8 @@
     "static/media/Farmerinfield.jpg": "/static/media/Farmerinfield.a9472a9c5542c314ab23.jpg",
     "static/media/Farmertractor1.jpg": "/static/media/Farmertractor1.8522f14241c32b5c859c.jpg",
     "static/media/Fasal.jpg": "/static/media/Fasal.a448003241e16a74da41.jpg",
-    "static/media/village1unsplash.jpg": "/static/media/village1unsplash.5122675d42ab442dd88c.jpg",
+    "static/media/dash.jpg": "/static/media/dash.68f3c95ee3e02262bc5c.jpg",
+    "static/media/village1.jpg": "/static/media/village1.5122675d42ab442dd88c.jpg",
     "static/media/card.png": "/static/media/card.58212c5d85109026f596.png",
     "static/media/villunsplash.jpg": "/static/media/villunsplash.b250affcf3a2507a92e8.jpg",
     "static/media/childunsplash.jpg": "/static/media/childunsplash.dff9d8687271a7cc1c50.jpg",
@@ -22,11 +23,11 @@
     "static/media/organic.png": "/static/media/organic.4fd48214237f313bb287.png",
     "static/media/naturalbeauty.png": "/static/media/naturalbeauty.35b24164179c78ac6d9f.png",
     "index.html": "/index.html",
-    "main.b78e51b8.css.map": "/static/css/main.b78e51b8.css.map",
-    "main.95b57ec4.js.map": "/static/js/main.95b57ec4.js.map"
+    "main.2a3b06f7.css.map": "/static/css/main.2a3b06f7.css.map",
+    "main.f40e63ad.js.map": "/static/js/main.f40e63ad.js.map"
   },
   "entrypoints": [
-    "static/css/main.b78e51b8.css",
-    "static/js/main.95b57ec4.js"
+    "static/css/main.2a3b06f7.css",
+    "static/js/main.f40e63ad.js"
   ]
 }
