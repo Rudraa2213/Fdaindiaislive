@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkfdaindia=self.webpackChunkfdaindia||[]).push([[967],{1967:(n,a,e)=>{e.r(a),e.d(a,{default:()=>r});var s=e(5043),d=e(3216),i=e(579);const r=function(){return(0,i.jsx)(s.Fragment,{children:(0,i.jsx)(d.sv,{})})}}}]);
+//# sourceMappingURL=967.12d3993c.chunk.js.map

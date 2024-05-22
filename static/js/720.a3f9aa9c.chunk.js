@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkfdaindia=self.webpackChunkfdaindia||[]).push([[720],{720:(e,r,n)=>{n.r(r),n.d(r,{default:()=>d});n(5043);var i=n(579);const d=function(){return(0,i.jsx)("div",{className:"container-fluid",children:(0,i.jsx)("div",{className:"container",style:{paddingTop:"15rem"},children:(0,i.jsx)("h1",{className:"text-center bg-dark text-light border-2 border-danger border mt-2",children:"Sorry for the inconvenience our website is under construction"})})})}}}]);
+//# sourceMappingURL=720.a3f9aa9c.chunk.js.map
